@@ -1,19 +1,24 @@
+
+
 title {
     font-family: Arial;
     font-size: 20px;
     color: red;
-    background-color: skyblue;
     text-align: center;
+    background-color: aqua;
 
 }
 
+
 body {
-    background-color: skyblue;
+    
     font-family: Arial;
     font-size: 16;
     color: darkblue;
-    text-align: center
+    text-align: center;
+    background-color: aqua;
 }
+
 
 
 
